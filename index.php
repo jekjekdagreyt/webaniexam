@@ -80,7 +80,10 @@
 					<div class = "upperp"><h1 class ="hijo">Portfolio! : </h1></div>
 					<div class ="lowerp">
 						<div class = "button1">
-							<a href = "svg/index.php" target="_blank" class ="hijoi">Learning Task 5.1</a>
+							<a href = "svg/index.html" target="_blank" class ="hijoi">Learning Task 5.1</a>
+						</div>
+						<div class = "button1">
+							<a href = "svgtext/index.html" target="_blank" class ="hijoi">Learning Task 6.1</a>
 						</div>
 					</div>
 				</div>
