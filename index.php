@@ -86,7 +86,7 @@
 							<a href = "svgtext/index.php" target="_blank" class ="hijoi">Learning Task 6.1</a>
 						</div>
 						<div class = "button1">
-							<a href = "svgicon/index.php" target="_blank" class ="hijoi">Learning Task 6.1</a>
+							<a href = "svgicon/index.php" target="_blank" class ="hijoi">Learning Task 6.2</a>
 						</div>
 					</div>
 				</div>
