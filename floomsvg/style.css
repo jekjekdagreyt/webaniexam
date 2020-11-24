@@ -1,0 +1,204 @@
+body{
+	background:linear-gradient(#B6DBEA,#2B1100);
+}
+#header{
+	background: white;
+	width:101.5%;
+	height: 100px;
+	border-bottom:10px solid #B6DBEA;
+	margin-top:-1%;
+	margin-left:-1%;
+}
+#body{
+	width:101.5%;
+	height:1200px;
+	background:white;
+	margin-left:-1%;
+}
+#footer{
+	width:101.5%;
+	height:250px;
+	margin-left:-1%;
+	background:linear-gradient(137.4834506685536deg, rgba(50, 156, 166,1) 4.104775168219042%,rgba(252, 172, 248,1) 71.74403347450477%)
+}
+
+
+
+
+.navi{
+	width:50px;
+	height:50px;
+	background:#ffffff;
+	float:left;
+	margin:30px;
+	overflow: hidden;
+	transition-duration:1s;
+	transition-delay:70ms;
+}
+.nav{
+	width:50px;
+	height:50px;
+	float:left;
+}
+.nav:hover{
+	animation:resize 1.2s;
+}
+@keyframes resize{
+	from{transform: rotate(0deg);}
+	to{transform: rotate(360deg);}
+}
+.navi:hover{
+	width:7%;
+	cursor:pointer;
+}
+.h3{
+	float:left;
+	font-family:arial;
+	font-size:20px;
+	color:#474344;
+}
+.logox{
+	width:150px;
+	height:40px;
+	opacity:.9;
+	float:right;
+	margin:30px;
+}
+.logox:hover{
+	border-bottom:1px solid black;
+	transform:scale(1.2);
+	
+}
+.logoxx{
+	width: 150px;
+	height: 40px;
+}
+
+.flowers{
+	
+	width:100%;
+	height: 100%;
+	background: skyblue;
+}
+.flowerpot1{
+	width: 100%;
+	height: 100%;
+}
+.nge{
+	margin-left:150px;
+	margin-top:-254px;
+	width: 100px;
+	height:250px;
+
+	}
+.hat{
+	margin-left:250px;
+	margin-top:-251px;
+}
+.hatdog{
+	margin-left:270px;
+	margin-top:-500px;
+	width: 400px;
+	height:400px;
+}
+.meh{
+	margin-left:600px;
+	margin-top:-151px;
+	width: 500px;
+	height:250px;
+}
+.mex{
+	margin-left:1000px;
+	margin-top:-250px;
+	width: 500px;
+	height:250px;
+}
+.b{
+	margin-left:100px;
+	margin-top:-13.7%;
+	width: 100px;
+	height:250px;
+}
+.c{
+	margin-left:200px;
+	margin-top:-16.4%;
+	width: 100px;
+	height:250px;
+}
+	.zz{
+	width:200px;
+	height: 250px;
+	}
+	.zx{
+		width:400px;
+		height: 400px;
+
+	}
+	.mew{
+		width:520px;
+		height: 250px;
+	}
+	.zxzx{
+		width:100px;
+		height: 250px;
+	}
+
+.kiw{
+	width:150px;
+	height:40px;
+}
+.kaw{
+	width:300px;
+	height:20px;
+}
+
+	.footlogo{
+	width: 150px;
+	height:40px;
+	margin-left:35%;
+	margin-top:8%;
+	border:4px solid white;
+}
+.haha{
+	width: 400px;
+	height:40px;
+}
+.about{
+	width:50%;
+	height:60%;
+	border:1px solid black;
+	margin-left: 22%; 
+	margin-top:2%;
+}
+.fb{
+	width: 50px;
+	height:50px;
+	border:1px solid black;
+	float:left;
+	margin-top:10%;
+	margin-left:10%;
+}
+.insta{
+	width: 50px;
+	height:50px;
+	border:1px solid black;
+	float:left;
+	margin-top:10%;
+	margin-left:2%;
+}
+.twit{
+	width: 50px;
+	height:50px;
+	border:1px solid black;
+	float:left;
+	margin-top:10%;
+	margin-left:2%;
+}
+.covid{
+	width:50px;
+	height:50px;
+
+}
+
+
+
