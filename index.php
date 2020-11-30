@@ -91,6 +91,9 @@
 						<div class = "button1">
 							<a href = "floomsvg/index.php" target="_blank" class ="hijoi">CLE1</a>
 						</div>
+						<div class = "button1">
+							<a href = "htmlcanvas/index.php" target="_blank" class="hijoi">Learning Task 7.1</a>
+						</div>
 					</div>
 				</div>
 			</div>
